@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html, body { height: 100%; }
+
+* { box-sizing: border-box; }
+
+body { margin: 0; background: #000; color: #e5e7eb; }
+
+::selection { background: rgba(59,130,246,.25); }
